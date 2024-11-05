@@ -8,7 +8,7 @@ gosto muito de games e fazer atividades físicas como correr e musculação.
 <br/>
 <br/>
 <p align="left">
- <a href="https://github.com/sandino15?tab=stars">
+ <a href="https://github.com/sandino15?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
