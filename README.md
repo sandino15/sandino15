@@ -8,14 +8,14 @@ gosto muito de games e fazer atividades físicas como correr e musculação.
 <br/>
 <br/>
 <p align="left">
- <a href="https://github.com/sandino15?tab=repositories&sort=stargazers">
+ <a href="https://github.com/sandino15?tab=stars">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/sandino15?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/sandino15?tab=following">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
